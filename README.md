@@ -1,11 +1,6 @@
-<style>
-  h3 {
-    text-align: center;
-  }
-</style>
-
-### __$wagging_4_evah__
-
+<div style="background-color: #f1f1f1; padding: 20px;">
+  <h3>__$wagging_4_evah__</h3>
+</div>
 <!--
 **ElPettego/ElPettego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
