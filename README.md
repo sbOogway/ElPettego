@@ -1,6 +1,8 @@
-h3 {
-  text-align: center;
-}
+<style>
+  h3 {
+    text-align: center;
+  }
+</style>
 
 ### __$wagging_4_evah__
 
