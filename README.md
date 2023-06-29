@@ -1,3 +1,7 @@
+h3 {
+  text-align: center;
+}
+
 ### __$wagging_4_evah__
 
 <!--
