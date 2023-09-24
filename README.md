@@ -2,4 +2,4 @@
   <h3>__$wagging_4_evah__</h3>
 </div>
 
-![Top Swag](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElPettego&theme=dark) ![stats](https://github-readme-stats.vercel.app/api?username=ElPettego&show_icons=true&theme=dark)
+![Top Swag](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElPettego&theme=dark&layout=donut) ![stats](https://github-readme-stats.vercel.app/api?username=ElPettego&show_icons=true&theme=dark)
