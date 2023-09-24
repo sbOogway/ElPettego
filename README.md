@@ -2,4 +2,4 @@
   <h3>__$wagging_4_evah__</h3>
 </div>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElPettego)]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElPettego&theme=dracula)]
